@@ -7,7 +7,7 @@ This repository contains the implementations for Homework 3: Deep Q-Networks (DQ
 - `result/`: Contains the generated loss/reward curve plots and test animation GIFs.
 - `hw3_1.py` ~ `hw3_4.py`: The Python scripts for each part of the homework.
 - `understanding_report.md`: Detailed report explaining the RL concepts and architectural choices used in this project.
-- `chat2.pdf`: The conversation history from the AI assistant session.
+- `chat2.md`: The conversation history from the AI assistant session.
 
 ---
 
